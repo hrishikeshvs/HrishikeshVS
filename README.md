@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Linux 
 - 💬 Ask me about ...
 - 📫 reach me: hrishikeshvs2003@gmail.com
+- ✨Fun fact: I'm fast learner
 
 -->
