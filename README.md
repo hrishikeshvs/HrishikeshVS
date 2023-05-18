@@ -1,4 +1,4 @@
-Software Developer | Full Stack Engineer | Python, C, Java, Rust | MySQL
+Software Developer | Full Stack | Python, C, Java, Rust | MySQL
 
 Technology always fascinates me !!!
 👋 Welcome to my GitHub profile! I'm Hrsihiekes V S, a passionate software developer with expertise in multiple programming languages and database management. I love solving complex problems and building robust applications.
