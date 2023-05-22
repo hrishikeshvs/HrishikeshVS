@@ -9,9 +9,13 @@ Technology always fascinates me !!!
 
 📫 Feel free to reach out to me via email or connect with me on LinkedIn. I'm open to exciting opportunities and collaborations.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Hrishikesh_V_S?style=social)](https://twitter.com/intent/follow?screen_name=Hrishikesh_V_S) 
-[![LinkedIn ](https://img.shields.io/github/followers/hrishikeshvs?label=Follow&style=social)](https://github.com/hrishikeshvs) 
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Hrishikesh_V_S) 
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/21939857/hrishikesh-v-s)
+[![LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-v-s-1a0890261/) 
+
+
+
+
 
 🌟 Let's build innovative solutions together and make an impact on the world of technology!
 
