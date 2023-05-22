@@ -11,7 +11,7 @@ Technology always fascinates me !!!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hrishikesh_V_S?style=social)](https://twitter.com/intent/follow?screen_name=Hrishikesh_V_S) 
 [![LinkedIn ](https://img.shields.io/github/followers/hrishikeshvs?label=Follow&style=social)](https://github.com/hrishikeshvs) 
-[![Stackoverflow](https://github.com/hrishikesh-v-s/hrishikesh-v-s/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/21939857/hrishikesh-v-s)
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/21939857/hrishikesh-v-s)
 
 🌟 Let's build innovative solutions together and make an impact on the world of technology!
 
