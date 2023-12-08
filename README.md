@@ -44,8 +44,7 @@ or connect with me on LinkedIn/Twitter. I'm open to exciting opportunities and c
 
 
 
-### 📊 Stats
-![Hrishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishikeshvs&show_icons=true&theme=gruvbox)
+
 
 
 
