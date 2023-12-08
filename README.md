@@ -1,12 +1,4 @@
-B.tech Under-graduate | Back-end | Python, C, Java, Rust | MySQL
-
-Technology always fascinates me !!!
-👋 Welcome to my GitHub profile! I'm Hrsihiekes V S, a passionate software developer with expertise in multiple programming languages and database management. I love solving complex problems and building robust applications.
-
-💻 Languages: Python, C, Java & Rust
-🛢️ Databases: MySQL
-🔨 Tools: Git, GitHub
-
+B.tech Under-graduate 
 📫 Feel free to reach out to me via email(hrishikeshvs2003@gmail.com) 
 or connect with me on LinkedIn/Twitter. I'm open to exciting opportunities and collaborations.
 
